@@ -1,6 +1,6 @@
 # Bingo
 
-Simulation of Bingo Game in Java using auto-generated numbers by the moderator and tickets for for 'n' number of players using multithreading.
+Simulation of Bingo Game in Java using auto-generated numbers by the moderator and tickets for 'n' number of players using multithreading.
 
 This assignment was submitted in completion of the course Object Oriented Programming. The problem statement is:-
 
